@@ -1,1 +1,1 @@
-# Bowling Game with JS
+# Bowling Game with TS
